@@ -1,4 +1,3 @@
-# PowerBI-Agent-Performance-Dashboard
 
 # Report: Agent Performance Dashboard
 A Power BI dashboard built to monitor agent performance and operational KPIs. This repository highlights report design, data modeling, and visualization techniques using data that has been visually anonymized for portfolio presentation.
