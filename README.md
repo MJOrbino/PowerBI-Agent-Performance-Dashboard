@@ -11,3 +11,10 @@ A Power BI dashboard built to monitor agent performance and operational KPIs. Th
 <p align="center">
     <img src="images/Agent_Dashboard.png" alt="Agent Dashboard" width="1500"/>
 </p>
+
+
+## Sample
+
+<p align="center">
+    <img src="images/Agent_Dashboard.png" alt="Sample" width="1500"/>
+</p>
